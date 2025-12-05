@@ -1,0 +1,5 @@
+{
+  "name": "AutoCorrelation Function",
+  "description": "Interactive visualization of Energy Signal Autocorrelation with AI explanations.",
+  "requestFramePermissions": []
+}
